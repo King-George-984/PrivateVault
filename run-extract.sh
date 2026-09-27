@@ -1,0 +1,2 @@
+﻿echo '77u/aW1wb3J0IHppcGZpbGUKCnppcF9wYXRoID0gIi90bXAvcHJpdmF0ZXZhdWx0LWRpc3QuemlwIgpvdXRwdXRfcGF0aCA9ICIvdmFyL3d3dy9wcml2YXRldmF1bHQiCgp3aXRoIHppcGZpbGUuWmlwRmlsZSh6aXBfcGF0aCwgInIiKSBhcyB6OgogICAgei5leHRyYWN0YWxsKG91dHB1dF9wYXRoKQoKcHJpbnQoIkVYVFJBQ1RJT05fQ09NUExFVEUiKQ0K' | base64 -d > /tmp/extract.py
+python3 /tmp/extract.py
